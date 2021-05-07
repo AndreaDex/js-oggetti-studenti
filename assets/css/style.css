@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/006/487/763/large/florielle-ann-quizon-mp-bnha-1.jpg?1498990158);
+  background-size: 100%;
+  background-position-y: 14%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
